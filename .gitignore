@@ -1,0 +1,37 @@
+# .gitignore
+/Assets/SuperGoalie/
+/Assets/Soccer Ball/
+
+# Ignore Unity temporary files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# Ignore Unity library folder
+[Ll]ibrary/
+
+# Ignore Visual Studio cache directories
+.vs/
+
+# User-specific files
+*.user
+*.userprefs
+*.unityproj
+*.sln
+*.suo
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# Logs
+*.log
+
+# Other
+.DS_Store

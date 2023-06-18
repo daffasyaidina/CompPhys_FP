@@ -1,6 +1,4 @@
 # .gitignore
-/Assets/SuperGoalie/
-/Assets/Soccer Ball/
 
 # Ignore Unity temporary files
 [Tt]emp/

@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI; // <- make sure to import this namespace
+using UnityEngine.UI; 
 using TMPro;
 
 namespace Assets.SuperGoalie.Scripts.Entities

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Penalty.unity
+    guid: 55bdaa380923b4b46b3cef50dd391f63
   m_configObjects: {}
